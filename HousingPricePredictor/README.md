@@ -24,7 +24,7 @@ This chapter involves three sections. Students are expected to do:
 
 ## Reading list
 ### MUST READ:
-I understand these are hard, but your confidence starts from overcome hard challenges. So please do read them afterwards:
+My recommendation of the year:
 ```
 @article{athey2019machine,
   title={Machine learning methods that economists should know about},
