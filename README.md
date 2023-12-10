@@ -10,19 +10,19 @@ pip install -U geopandas opencv-python numpy seaborn matplotlib scikit-learn you
 ```
 
 ## Chapter
-1. Housing Price Predictor
+1. [Housing Price Predictor](https://github.com/brookefzy/pitaya/tree/main/HousingPricePredictor)
 * Data Exploration and Data Cleaning
 * Linear Models
 * Non-linear Models
-2. Cluster Space with Mobility Pattern
+2. [Cluster Space with Mobility Pattern](https://github.com/brookefzy/pitaya/tree/main/ClusterSpacewithMobility)
 * Kmean and Fuzzy Cmeans
-3. Street Network
+3. [Street Network](https://github.com/brookefzy/pitaya/tree/main/StreetNetwork)
 * Use osmnx to download road network
 * Network analysis
-4. Baby AI steps - NLP
+4. [Baby AI steps - NLP](https://github.com/brookefzy/pitaya/tree/main/BabyAI-NLP)
 * Word Frequency
 * Prompt engineering
-5. Baby AI steps - CV and deep learning
+5. [Baby AI steps - CV and deep learning](https://github.com/brookefzy/pitaya/tree/main/BabyAI-CV)
 * openCV basics
 * image segmentation
 * object detection and tracking
