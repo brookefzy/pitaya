@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Other requiremnets
 1. Register a gmail account
 2. Register to get an openai API key (optional)
-3. VPN set up if network blocker exists for certain links for the course work.
+3. VPN set up if a network blocker exists.
 
 ## Chapter
 0. [Overview of ML/AI in urban studies](https://docs.google.com/presentation/d/1Qe5HpvrHvt2qUsnCyHGmEX-InD7OgYgSMav3nXh15ec/edit?usp=sharing)
