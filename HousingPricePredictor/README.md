@@ -19,6 +19,7 @@ This chapter involves three sections. Students are expected to do:
 
 ### 3. [Non-linear models](https://github.com/brookefzy/pitaya/blob/main/HousingPricePredictor/03_nonlinear_models.ipynb)
 * Use common non-linear regression models (random forest, Gradient Boosting Regressor, XGBoost) to predict housing price
+* Hyperparameter tuning
 * Compare evaluation metrics to evalute all models
 * Learn to use permutation importance to analyze feature importance for individual feature
 * Understand SHAPLEY Values, partial dependence plot
