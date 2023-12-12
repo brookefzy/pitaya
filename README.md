@@ -14,7 +14,7 @@ pip install -r requirements.txt
 3. VPN set up if network blocker exists for certain links for the course work.
 
 ## Chapter
-0. Overview of ML/AI in urban studies [Link](https://docs.google.com/presentation/d/1Qe5HpvrHvt2qUsnCyHGmEX-InD7OgYgSMav3nXh15ec/edit?usp=sharing)
+0. [Overview of ML/AI in urban studies](https://docs.google.com/presentation/d/1Qe5HpvrHvt2qUsnCyHGmEX-InD7OgYgSMav3nXh15ec/edit?usp=sharing)
 1. [Housing Price Predictor](https://github.com/brookefzy/pitaya/tree/main/HousingPricePredictor)
 * Data Exploration and Data Cleaning
 * Linear Models
