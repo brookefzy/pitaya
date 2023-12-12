@@ -24,10 +24,10 @@ pip install -r requirements.txt
 3. [Street Network](https://github.com/brookefzy/pitaya/tree/main/StreetNetwork)
 * Use osmnx to download road network
 * Network analysis
-4. [Baby AI steps - NLP](https://github.com/brookefzy/pitaya/tree/main/BabyAI-NLP)
+4. [AI baby steps - NLP](https://github.com/brookefzy/pitaya/tree/main/BabyAI-NLP)
 * Word Frequency
 * Prompt engineering
-5. [Baby AI steps - CV and deep learning](https://github.com/brookefzy/pitaya/tree/main/BabyAI-CV)
+5. [AI baby steps - CV and deep learning](https://github.com/brookefzy/pitaya/tree/main/BabyAI-CV)
 * OpenCV basics
 * Image segmentation
 * Object detection and tracking
