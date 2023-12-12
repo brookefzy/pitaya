@@ -1,4 +1,4 @@
-# Simple OpenCV usage and Video analysis
+# OpenCV, Computer Vision, and Deep learning in image/video analytics
 # Background
 Images and videos have become one of the key sources of big data analysis in urban science
 
@@ -58,5 +58,14 @@ Images and videos have become one of the key sources of big data analysis in urb
   pages={23998083231160549},
   year={2023},
   publisher={SAGE Publications Sage UK: London, England}
+}
+@article{loo2023using,
+  title={Using computer vision and machine learning to identify bus safety risk factors},
+  author={Loo, Becky PY and Fan, Zhuangyuan and Lian, Ting and Zhang, Feiyang},
+  journal={Accident Analysis \& Prevention},
+  volume={185},
+  pages={107017},
+  year={2023},
+  publisher={Elsevier}
 }
 ```
