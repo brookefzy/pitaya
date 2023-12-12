@@ -1,4 +1,9 @@
 # Simple OpenCV usage and Video analysis
+# Background
+Image has become one of the key sources of big data analysis in urban science
+# Goal
+
+# Reading
 ## 1. Video processing
 * Use code `scripts/01_videoprocessing.ipynb`
 ## 2. Object Detection in single image
