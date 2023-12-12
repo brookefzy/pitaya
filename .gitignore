@@ -1,8 +1,8 @@
 *.mp4
 *.pt
-*.csv
-*.xlsx
-*.xls
+# *.csv
+# *.xlsx
+# *.xls
 .env
 */cache/*
 *.gpkg

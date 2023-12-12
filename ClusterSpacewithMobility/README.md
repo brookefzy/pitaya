@@ -25,6 +25,9 @@ After this chapter, the student should be able to:
 3. use Kmean and Fuzzy Cmean in research
 4. understand elbow method
 
+## Data
+Download the data [here](https://drive.google.com/drive/folders/1cKBRk8TVAAZKK8wa9L7FdGbc-0C2lUMu?usp=drive_link)
+
 ## Readings
 ```
 @software{dias2019fuzzy,

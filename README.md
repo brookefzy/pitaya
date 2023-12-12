@@ -6,8 +6,12 @@ This is a simple tutorials for students in urban studies to get a taste of machi
 conda create -n piyata python=3.10
 conda activate piyata
 conda install pip
-pip install -U geopandas opencv-python numpy seaborn matplotlib scikit-learn youtube_dl IPython
+pip install -r requirements.txt
 ```
+## Other requiremnets
+1. Register a gmail account
+2. Register to get an openai API key (optional)
+3. VPN set up if network blocker exists for certain links for the course work.
 
 ## Chapter
 0. Overview of ML/AI in urban studies [Link](https://docs.google.com/presentation/d/1Qe5HpvrHvt2qUsnCyHGmEX-InD7OgYgSMav3nXh15ec/edit?usp=sharing)
@@ -29,4 +33,19 @@ pip install -U geopandas opencv-python numpy seaborn matplotlib scikit-learn you
 * object detection and tracking
 * data labeling tools
 
-
+## Folder Structure
+```
+├───BabyAI-CV
+│   ├───data
+│   └───scripts
+├───BabyAI-NLP
+│   ├───data
+│   └───figures
+├───ClusterSpacewithMobility
+│   ├───data
+│   └───figures
+├───HousingPricePredictor
+│   └───data
+└───StreetNetwork
+    └───figures
+```
