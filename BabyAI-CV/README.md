@@ -1,6 +1,6 @@
 # Simple OpenCV usage and Video analysis
 # Background
-Image has become one of the key sources of big data analysis in urban science
+Images and videos have become one of the key sources of big data analysis in urban science
 
 # Goal
 1. Grasp the simple usage of openCV
@@ -8,12 +8,16 @@ Image has become one of the key sources of big data analysis in urban science
 3. Run object detection and tracking model in a GPU environment
 4. Run semantic segmentation model
 5. Explore visual-question-answering task
-6. Intro to data labeling tool
+6. Intro to data labelling tool
+
+# Case presentation
+* Extract bus risk factors from dashcam videos
 
 # Lab
 ## 1. Video processing
 * Use code `scripts/01_videoprocessing.ipynb`
-## 2. Object Detection in single image
+  
+## 2. Object detection in a single image
 * YOLOv5 Tutorial [Colab](https://colab.research.google.com/drive/1P3eQFM-s6ZTb4jahzFkyOwuDJKpJ-a3F?usp=sharing)
 
 **MAKE A COPY FIRST**
