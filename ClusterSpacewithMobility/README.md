@@ -21,7 +21,7 @@ Figure below show how we assign each POI to the catchment area of a TOD. These s
 ## Goal
 After this chapter, the student should be able to:
 1. explain the differences between supervised learning and unsupervised learning
-2. explain the basic logic behind kmean algorithm
+2. explain the basic logic behind Kmean algorithm
 3. use Kmean and Fuzzy Cmean in research
 4. understand elbow method
 
