@@ -1,12 +1,12 @@
 # Simple Implementation of NLP models
 ## Background
-* This is a simple excercise to understand the basics of some language models
-* I use this code here to compile the first day intro presentation.
+* This is a simple exercise to understand the basics of some language models
+* We use simple word frequency model to analyze the trend of machine learning in urban studies by analyzing the recent paper's abstract from Web of Science.
 
 ## Goal
 1. Understand n-grams and word frequency
 2. Understand word embeddings
-3. Proper prompt engineer
+3. Proper prompt engineering
 
 ## Data
 Download data from [here](https://drive.google.com/drive/folders/1Pjb4FWPi2ozxQdBW38Q69MXX23sXJwSH?usp=sharing)
