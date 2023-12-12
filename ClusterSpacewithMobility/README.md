@@ -36,5 +36,15 @@ After this chapter, the student should be able to:
   doi          = {10.5281/zenodo.3066222},
   url          = {https://git.io/fuzzy-c-means}
 }
+@article{fan2021rhythm,
+  title={Rhythm of Transit Stations-Uncovering the Activity-Travel Dynamics of Transit-Oriented Development in the US},
+  author={Fan, Zhuangyuan and Zhang, Fan and Loo, Becky PY},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={23},
+  number={8},
+  pages={12503--12517},
+  year={2021},
+  publisher={IEEE}
+}
 ```
 * Web material [Link](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
