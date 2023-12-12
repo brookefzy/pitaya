@@ -18,6 +18,7 @@ Image has become one of the key sources of big data analysis in urban science
 
 **MAKE A COPY FIRST**
 ## 3. Object Tracking
+* Reading [Link](https://github.com/mikel-brostrom/yolo_tracking)
 * Multi-object tracking (MOT) [Colab](https://colab.research.google.com/drive/11ZlXYrkl4hEwhblwxZxNtYxGDJCyWiwB?usp=sharing)
 
 **MAKE A COPY FIRST**
@@ -26,6 +27,12 @@ Image has become one of the key sources of big data analysis in urban science
 * Working Session [Colab](https://colab.research.google.com/drive/19npscAnLL40Arfb0f9kctIAwRTY_VFV_?usp=sharing)
 
 **MAKE A COPY FIRST**
+
+## 5. Visual Question Answering (VQA)
+* Working session [Colab](https://colab.research.google.com/drive/1lsMsF-Vum3MVyXwSVF5E-Y23rHFvj_3y?usp=sharing)
+
+## 6. Data Labeling
+[Roboflow](https://roboflow.com/)
 
 ## Reading:
 ```
