@@ -3,6 +3,7 @@
 # *.csv
 # *.xlsx
 # *.xls
+.html
 .env
 */cache/*
 *.gpkg
