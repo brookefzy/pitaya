@@ -1,11 +1,12 @@
 # Intro to graph of streets
 ## Backgrounds
-Street network is one of the core assets in Urban analysis. A large amount of researches are relying on network analysis.
+The street network is one of the core assets in Urban analysis. A large amount of research relies on network analysis.
 ## Goal
 1. Use OSMnx package to download street network for a neighborhood
 2. Use OSMnx package to download POI
 3. Understand the basic terms used in Graph theory
 4. Understand centrality basics
+5. We will demo one research projects using street network to understand social segregation at street level (presentation to add)
 
 ## Reading
 ```
