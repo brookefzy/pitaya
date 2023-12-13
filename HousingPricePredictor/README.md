@@ -2,7 +2,7 @@
 ## Background
 Housing price prediction is one of the most famous tasks in ML/AL in the real-estate world. In this section, we will use housing price prediction to go over the basic ML models (linear and non-linear models).
 ## Goal
-This chapter involves three sections. Students are expected to do:
+This chapter involves four sections.
 ### 1. [Data Exploration](https://github.com/brookefzy/pitaya/blob/main/HousingPricePredictor/01_exploratory_data_analysis.ipynb)
 * Use python data visualization package to conduct basic EDA (Exploratory data analysis)
 * Understand data type
@@ -24,6 +24,9 @@ This chapter involves three sections. Students are expected to do:
 * Learn to use permutation importance to analyze feature importance for individual feature
 * Understand SHAPLEY Values, partial dependence plot
 * **Self-guide**: the student should use a different non-linear model and get the result for the test dataset provided by the exercise.
+
+### 4. Case presentation
+* Using the nonlinear model to estimate bus risk factors
 
 ## Reading list
 ### MUST READ:
