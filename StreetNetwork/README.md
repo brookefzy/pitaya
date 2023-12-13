@@ -6,7 +6,7 @@ The street network is one of the core assets in Urban analysis. A large amount o
 2. Use OSMnx package to download POI
 3. Understand the basic terms used in Graph theory
 4. Understand centrality basics
-5. We will demo one research projects using street network to understand social segregation at street level (presentation to add)
+5. We will demo one research project using the street network to understand social segregation at street level [Interactive module](http://greatstreets.mit.edu/html/maps.html)
 
 ## Reading
 ```
@@ -20,6 +20,16 @@ The street network is one of the core assets in Urban analysis. A large amount o
   publisher={Elsevier}
 }
 
+@article{fan2023diversity,
+  title={Diversity beyond density: Experienced social mixing of urban streets},
+  author={Fan, Zhuangyuan and Su, Tianyu and Sun, Maoran and Noyman, Ariel and Zhang, Fan and Pentland, Alex ‘Sandy’ and Moro, Esteban},
+  journal={PNAS nexus},
+  volume={2},
+  number={4},
+  pages={pgad077},
+  year={2023},
+  publisher={Oxford University Press US}
+}
 @article{xue2022quantifying,
   title={Quantifying the spatial homogeneity of urban road networks via graph neural networks},
   author={Xue, Jiawei and Jiang, Nan and Liang, Senwei and Pang, Qiyuan and Yabe, Takahiro and Ukkusuri, Satish V and Ma, Jianzhu},
