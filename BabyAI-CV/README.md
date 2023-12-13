@@ -1,6 +1,7 @@
 # OpenCV, Computer Vision, and Deep learning in image/video analytics
 # Background
 Images and videos have become one of the key sources of big data analysis in urban science
+![graphiceditor_Fig2-Behavior Factors](https://github.com/brookefzy/pitaya/assets/44881208/65723e89-4dec-4c12-a6ff-6f44813aa9e5)
 
 # Goal
 1. Grasp the simple usage of openCV
