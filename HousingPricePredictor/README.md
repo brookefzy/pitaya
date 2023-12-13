@@ -1,7 +1,7 @@
 # Housing Price Predictor
 ## Background
 Housing price prediction is one of the most famous tasks in ML/AL in the real-estate world. In this section, we will use housing price prediction to go over the basic ML models (linear and non-linear models).
-## Goal
+## Course Content
 This chapter involves four sections.
 ### 1. [Data Exploration](https://github.com/brookefzy/pitaya/blob/main/HousingPricePredictor/01_exploratory_data_analysis.ipynb)
 * Use python data visualization package to conduct basic EDA (Exploratory data analysis)
