@@ -10,7 +10,7 @@ conda install pip
 pip install -r requirements.txt
 ```
 ## Other requirements
-1. Register a Gmail account
+1. Register a Gmail account for Colab
 2. Register to get an openAI API key (optional)
 3. VPN set up if a network blocker exists.
 
