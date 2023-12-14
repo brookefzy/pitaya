@@ -3,9 +3,17 @@
 * This is a simple exercise to understand the basics of some language models
 * We use simple word frequency model to analyze the trend of machine learning in urban studies by analyzing the recent paper's abstract from Web of Science.
 
+## What is NLP?
+There are a variety of NLP tasks. Some but not all includes:
+1. Semantic classification
+2. Text generation
+3. Question answering
+4. Translation
+5. Other tasks can involve materials more than just languages. For example, visual question answering
+
 ## Goal
 1. Understand n-grams and word frequency
-2. Understand word embeddings
+2. Play with transformer
 3. Proper prompt engineering
 
 ## Data
@@ -14,6 +22,7 @@ Download data from [here](https://drive.google.com/drive/folders/1Pjb4FWPi2ozxQd
 ## Other GREAT Resource
 [Deeplearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 [AllenNLP](https://allenai.org/allennlp)
+[Huggingface](https://huggingface.co/learn/nlp-course/chapter1/3?fw=pt)
 ## Reading
 ```
 @article{garg2018word,
