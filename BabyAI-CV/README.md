@@ -4,7 +4,7 @@ Images and videos have become one of the key sources of big data analysis in urb
 ![graphiceditor_Fig2-Behavior Factors](https://github.com/brookefzy/pitaya/assets/44881208/65723e89-4dec-4c12-a6ff-6f44813aa9e5)
 
 # Goal
-1. Grasp the simple usage of openCV
+1. Grasp the simple usage of python openCV package
 2. Learn basic usage of Google Colab
 3. Run object detection and tracking model in a GPU environment
 4. Run semantic segmentation model
@@ -38,6 +38,9 @@ Images and videos have become one of the key sources of big data analysis in urb
 
 ## 6. Data Labeling
 [Roboflow](https://roboflow.com/)
+
+## 7. Replicate a research project
+* Refer to this [repo](https://github.com/brookefzy/urban-visual-intelligence) regarding how researchers use the segmented value from street view for further analysis.
 
 ## Reading:
 ```
