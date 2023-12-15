@@ -4,8 +4,8 @@ This repo only contains sample codes for simple replication of current researche
 
 ## Installation
 ```
-conda create -n piyata python=3.10
-conda activate piyata
+conda create -n pitaya python=3.10
+conda activate pitaya
 conda install pip
 pip install -r requirements.txt
 ```
