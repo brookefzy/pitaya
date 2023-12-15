@@ -4,7 +4,7 @@ This repo only contains sample codes for simple replication of current research.
 
 ## Installation
 ```
-git clone https://github.com/brookefzy/pitaya
+git clone https://github.com/brookefzy/pitaya.git
 cd pitaya
 conda create -n pitaya python=3.9
 conda activate pitaya
