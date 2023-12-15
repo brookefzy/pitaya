@@ -10,6 +10,8 @@ Images and videos have become one of the key sources of big data analysis in urb
 4. Run semantic segmentation model
 5. Explore visual-question-answering task
 6. Intro to data labelling tool
+7. Visual data processing: Camera Calibration
+
 
 # Case presentation
 * Extract bus risk factors from dashcam videos

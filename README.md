@@ -11,6 +11,12 @@ conda activate pitaya
 conda install pip
 pip install -r requirements.txt
 ```
+## If in jupyter
+
+```
+conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=pitaya
+```
 ## Other requirements
 1. Register a Gmail account for Colab
 2. Register to get an openAI API key (optional)
