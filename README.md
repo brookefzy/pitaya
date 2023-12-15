@@ -1,10 +1,12 @@
 # Crash Tutorials on Urban Science/Modeling
 This is a crash tutorial for researchers in urban studies to get a taste of machine learning tools.
-This repo only contains sample codes for simple replication of current researches. Mathematical backgrounds are beyond the scope of this repo. Source of codes are included in each section.
+This repo only contains sample codes for simple replication of current research. Mathematical backgrounds are beyond the scope of this repo. Source of codes are included in each section.
 
 ## Installation
 ```
-conda create -n pitaya python=3.10
+git clone https://github.com/brookefzy/pitaya
+cd pitaya
+conda create -n pitaya python=3.9
 conda activate pitaya
 conda install pip
 pip install -r requirements.txt
