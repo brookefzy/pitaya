@@ -3,6 +3,17 @@
 Housing price prediction is one of the most famous tasks in ML/AL in the real-estate world. In this section, we will use housing price prediction to go over the basic ML models (linear and non-linear models).
 In the real ML world, we have two types of tasks: **Regression**, **Classification**. In this section, we will only discuss regression, but you need to realize that all these models we applied here have their classification peer.
 
+## Installation
+```
+conda create -n pitaya_house python=3.10
+conda activate pitaya_house
+conda install pip
+pip install -U scikit-learn
+pip install xgboost statsmodels pandas seaborn matplotlib tqdm shap
+pip install ipykernel
+python -m ipykernel install --user --name=pitaya_house
+```
+
 ## Course Content
 This chapter involves four sections.
 ### 1. [Data Exploration](https://github.com/brookefzy/pitaya/blob/main/HousingPricePredictor/01_exploratory_data_analysis.ipynb)

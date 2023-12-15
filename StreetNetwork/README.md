@@ -1,6 +1,14 @@
 # Intro to graph of streets
 ## Backgrounds
 The street network is one of the core assets in Urban analysis. A large amount of research relies on network analysis.
+
+## Installation
+```
+conda create -n pitaya_spatial python=3.10
+conda activate pitaya_spatial
+conda install pip
+pip install geopandas GDAL osmnx seaborn matplotlib
+```
 ## Goal
 1. Use OSMnx package to download street network for a neighborhood
 2. Use OSMnx package to download POI
