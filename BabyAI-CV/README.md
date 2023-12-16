@@ -13,7 +13,7 @@ Images and videos have become one of the key sources of big data analysis in urb
 7. Visual data processing: Camera Calibration
 
 <p align="center">
-<img src="../asset/cv_overall.png" alt="cv-tasks" style="width:50%; border:0;">
+<img src="../asset/cv_overall.png" alt="cv-tasks" style="width:100%; border:0;">
 </p>
 
 # Case presentation
