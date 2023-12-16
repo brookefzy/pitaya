@@ -12,9 +12,7 @@ Images and videos have become one of the key sources of big data analysis in urb
 6. Intro to data labelling tool
 7. Visual data processing: Camera Calibration
 
-<p align="center">
-<img src="../asset/cv_overall.png" alt="cv-tasks" style="width:100%; border:0;">
-</p>
+![cv_overall](https://github.com/brookefzy/pitaya/assets/44881208/faf900f3-4742-44d7-8f61-8de8102bdc29)
 
 # Case presentation
 * Extract bus risk factors from dashcam videos
